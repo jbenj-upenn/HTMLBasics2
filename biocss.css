@@ -1,0 +1,29 @@
+body {
+        background-color: rgb(100, 10, 20);
+      }
+  
+      h1 {
+        text-align: center;
+        color: white;
+        text-decoration: underline;
+      }
+  
+      h2 {
+          text-align: center;
+          color: rgb(243, 36, 209);
+      }
+        
+      p   {
+          font-size: 24px;
+          font-family:'Gill Sans';
+      }
+
+      ol {
+          color: rgb(210, 300, 138);
+          
+      }
+
+      ul {
+          font-size: large;
+          color: blue;
+      }
