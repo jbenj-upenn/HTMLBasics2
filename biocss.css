@@ -1,5 +1,5 @@
 body {
-        background-color: rgb(100, 10, 20);
+        background-color: rgb(35, 200, 150);
       }
   
       h1 {
@@ -19,11 +19,16 @@ body {
       }
 
       ol {
-          color: rgb(210, 300, 138);
-          
+          color: rgb(210, 100, 138);
+          margin:"50px"
+                    
       }
 
       ul {
           font-size: large;
           color: blue;
       }
+
+    img  {
+        size:"50px"
+    }
